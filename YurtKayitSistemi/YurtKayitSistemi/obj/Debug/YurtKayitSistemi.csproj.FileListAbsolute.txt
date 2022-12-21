@@ -1,0 +1,33 @@
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Lenovo ThinkBook\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Pc\Desktop\Yurt Otomasyon Projesi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
